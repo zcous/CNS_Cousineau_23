@@ -10,7 +10,7 @@
     _wget -qO- 127.0.0.1/Homework_1.html._ 
     At first, I just typed "wget -qO- 127.0.0.1, but that did not give the output wanted. 
 
-    [HW1/vagrantpicsHW1.png]
+    (HW1/vagrantpicsHW1.png)
 
 ### Configure the Network
   After privisioning, I had to configure the network by adding the following line in my VagrantFile:
