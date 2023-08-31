@@ -1,4 +1,4 @@
-# Lab 1 - CNS - 1/c Zoe Cousineau
+# HW 1 - CNS - 1/c Zoe Cousineau
 ## 31Aug 2023
 
 ### Automate Webserver Creation
