@@ -11,11 +11,12 @@
     At first, I just typed "wget -qO- 127.0.0.1, but that did not give the output wanted. 
 
     !(https://github.com/zcous/CNS_Cousineau_23/blob/main/HW1/vagrantpicsHW1.png)
+    !(https://github.com/zcous/CNS_Cousineau_23/blob/main/HW1/vagrantpic2.png)
 
 ### Configure the Network
   After privisioning, I had to configure the network by adding the following line in my VagrantFile:
     _config.vm.network :forwarded_port, guest: 80, host: 4567_
- For these change to come into effect, then I ran "vagrant reload".
+ For these change to come into effect, then I ran "vagrant reload". My HW document did not end up working, but my get started with Vagrant HTML did!
 
 ### Vagrant Privisioners
   The Vagrant Privisioner I chose was Chef Solo, continuing on the food theme from my box, bentobox. Chef Solo is a continuuation of Chef, 
