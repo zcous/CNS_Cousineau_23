@@ -26,3 +26,5 @@
   are currently under development.
   This box is 1-5 Mb in on-disk size, making it very space efficient. It usually has less options than full GNUs,
   but it provides a good environment for small systems. It is called the "Swiss Army Knife of Embedded Linux".
+
+  ![Busybox Container](https://github.com/zcous/CNS_Cousineau_23/blob/main/HW2/Hw2scrn5.png)
