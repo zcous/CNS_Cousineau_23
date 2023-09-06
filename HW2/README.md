@@ -9,7 +9,13 @@
   template and hit the ground running. I did not rename the file, I just put it in the new HW2 file so that I  
   did not have to rename it and give myself more hastle than needed. 
 
-  
+  Second, I configured the Docker File to add the attacker host, see below:
+  ![Attacker Configuration in Docker File](https://github.com/zcous/CNS_Cousineau_23/blob/main/HW2/HW2_pic1.png)
+
+  Lastly, it was time to ping. Yes, you can ping the hosts on the netwrok. Pinging is just seeing if anything has     
+  connectivity. Pining is not getting into the system, rather just saying hello from the outside. 
+
+ can you docker sh?
 
 ## 2 Containers
 
