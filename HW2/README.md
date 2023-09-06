@@ -2,7 +2,7 @@
 
 ## 2 Containers
 
-# Container 1 - redis
+### Container 1 - redis
   I chose this container because I initially thought it said REGIS and I thought that was funny. 
   This container is maintained by the Docker Community and has a large GitHub respository with more information on it.
   Redis has a plethora of options, even in the initial look up of this image, their example code shows options like 
@@ -10,7 +10,7 @@
   This container is unique because it is so well developed. This page has a lot of information on it and can do alot.
   It is also written in ANSI C, giving it some durability other container do not have. 
 
-# Container 2 - traefik
+### Container 2 - traefik
   I chose this container because the penguin or beaver looking animal on the front was very cute!
   This container is maintained by the Traefik Project, and also has a GitHub repository with additional information.
   Traefik has --help and --providers options. This is better than the last container, but there are still limited options.
