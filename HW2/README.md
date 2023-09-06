@@ -1,5 +1,16 @@
 # 1/c Zoe Cousineau - HW2 - 07Sep - CNS
 
+## Lab Process
+  Overall, this lab was the smoothest yet! I had a lot of catching up to do because I started doing the CNS
+  Labs and Homeworks on the NUCs in the Capstone lab (bad idea, would never do that again). However, putting
+  a little more time into doing it right paid off when coming to this lab.
+
+  First, I copied the docker compoase file over to my new HW2 folder, this allowed me to start off with a 
+  template and hit the ground running. I did not rename the file, I just put it in the new HW2 file so that I  
+  did not have to rename it and give myself more hastle than needed. 
+
+  
+
 ## 2 Containers
 
 ### Container 1 - redis
