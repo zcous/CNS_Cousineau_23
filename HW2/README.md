@@ -13,9 +13,8 @@
   ![Attacker Configuration in Docker File](https://github.com/zcous/CNS_Cousineau_23/blob/main/HW2/HW2_pic1.png)
 
   Lastly, it was time to ping. Yes, you can ping the hosts on the netwrok. Pinging is just seeing if anything has     
-  connectivity. Pining is not getting into the system, rather just saying hello from the outside. 
-
- can you docker sh?
+  connectivity. Pining is not getting into the system, rather just saying hello from the outside. You can use
+  docksh into the other container. 
 
 ## 2 Containers
 
