@@ -8,4 +8,4 @@
    Then, used the command  [vagrant scp :/home/vagrant/SCC C:\Users\cousineauz\HW3] to take the data from the tests. 
 
 ## Conclusion
-  
+  Once the SCC ran, my overall score was 37.2% RED, 139 failed, 97 passed controls, and 141 not checked with 5 not chcked. This VM needs a lot of help!!
