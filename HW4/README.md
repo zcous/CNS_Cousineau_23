@@ -2,3 +2,10 @@
 
 ## Creating AD Users
 First, I logged in with the IP, 172.25.1.60, and my user name zoecousineau. We had previously made the accounts last lab. 
+
+## Powershell Permissions
+see screen show execution policy
+
+## Powershells Script Execution
+processes that begin with wu
+
