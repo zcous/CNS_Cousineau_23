@@ -28,7 +28,7 @@ Now I can finally run a powershell script with my new powers! The script I wrote
 ![Powershell Script](HW4/powershellHW4_real.png)
 
 
-###Creat More AD Objects
+### Create More AD Objects
 Badblood, at first I thought we were doing something with Taylor Swift...
 ![Taylor Swift's Hit Single: Bad Blood](HW4/Taylor_Swift_Feat._Kendrick_Lamar_-_Bad_Blood_(Official_Single_Cover).png)
 
