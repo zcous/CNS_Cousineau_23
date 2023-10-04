@@ -3,4 +3,4 @@
 ## Learning about ssh with RedHat
 
 ## Applying Key Based Authentication
-  First, I used the command ssh-keygen -t rsa to make the key, with the file name cns, with passphrase cns.
+  First, I used the command ssh-keygen -t rsa to make the key, with the file name cns1 and no passphrase. 
