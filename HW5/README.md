@@ -4,3 +4,8 @@
 
 ## Applying Key Based Authentication
   First, I used the command ssh-keygen -t rsa to make the key, with the file name cns1 and no passphrase. 
+
+## Brute Force
+
+changed to 123456 using passwd
+
