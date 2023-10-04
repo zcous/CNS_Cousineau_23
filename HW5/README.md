@@ -7,5 +7,6 @@
 
 ## Brute Force
 
-changed to 123456 using passwd
+changed to killer using passwd command. test was too short...
+
 
