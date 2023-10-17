@@ -10,3 +10,13 @@ Here's my cool certificate!
 ## Windows Event ID - 4608
   I decided to black list the Windows event ID 4608 because this event indicates that Windows is starting up. I would not deem this even necessary when looking into a system for possible attacks because it does not indicate that any sort of attack is going on. This would also declutter the events I would be looking at, making it easier to find the possible malicious actors in the system. 
 
+  My inputs.conf file in my SplunkUniversalForwarder/etc/system/local folder, as pictured below:
+
+![inputs.conf file](![image](https://github.com/zcous/CNS_Cousineau_23/assets/90362066/0d3e2f4e-d42a-4763-955e-cb57381144cd)
+
+## Take Aways
+  Overall this was a great Homework, I enjoyed getting to pick what I wanted to learn and what I wanted to block with my team. This the modd for this week, since it was super busy with two big papers, big capstone work, and leaving for two days for a glee trip!!
+
+  
+
+
