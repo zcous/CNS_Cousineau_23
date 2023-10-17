@@ -17,6 +17,8 @@ Here's my cool certificate!
 ## Take Aways
   Overall this was a great Homework, I enjoyed getting to pick what I wanted to learn and what I wanted to block with my team. This the modd for this week, since it was super busy with two big papers, big capstone work, and leaving for two days for a glee trip!!
 
+![today be like](https://github.com/zcous/CNS_Cousineau_23/blob/main/HW6/meme.png)
+
   
 
 
