@@ -7,5 +7,6 @@
 Here's my cool certificate!
   ![Certificate](https://github.com/zcous/CNS_Cousineau_23/blob/main/HW6/CousineauCertificate.pdf)
 
-## Windows Event ID
+## Windows Event ID - 4608
+  I decided to black list the Windows event ID 4608 because this event indicates that Windows is starting up. I would not deem this even necessary when looking into a system for possible attacks because it does not indicate that any sort of attack is going on. This would also declutter the events I would be looking at, making it easier to find the possible malicious actors in the system. 
 
