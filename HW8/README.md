@@ -10,7 +10,7 @@ I will be using gobuster, which can help hack into websites and get into directo
 and it's installed!
 
 The next command I used was:
-[gobuster dir -u http://testphp.vulweb.com -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt -x .php,.txt]
+![gobuster dir -u http://testphp.vulweb.com -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt -x .php,.txt]
 
 gobuster: to call the tool
 U: denotes that you want to scan a URL that will follow
